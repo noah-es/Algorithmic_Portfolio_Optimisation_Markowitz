@@ -128,7 +128,7 @@ The results conclude the same. The same efficient portfolio is arrived at by two
 
 ## Efficient Frontier and Optimal Portfolio
 
-![Texto Alternativo](results/efficient_frontier.png)
+![Texto Alternativo](Results/Efficient_Frontier.png)
 
 
         
